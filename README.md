@@ -1,10 +1,10 @@
-#DEBUG SMTP
+# DEBUG SMTP
 
-##Overview
+## Overview
 
 This script will help you debug an SMTP Session.
 
-##Usage
+## Usage
 
 	-s, --server [SMTP SERVER ADDRESS / IP]
 	The SMTP Server you want to test
@@ -18,7 +18,7 @@ This script will help you debug an SMTP Session.
 	-h, --help
     Shows a quick help-message
 
-##Example
+## Example
 
 Sending an testmail to user2@example.org via smtp.gmail.com
 
@@ -55,6 +55,6 @@ Output:
 
 In this example the try fails because gmail only accepts tls connections. 
 
-##Contact
+## Contact
 
 You can contact me via mail: [mail@sysadmin-log.de](mail@sysadmin-log.de).
